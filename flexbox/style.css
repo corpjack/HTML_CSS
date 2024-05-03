@@ -4,8 +4,11 @@
     border: 2px solid black;
     background-color: aquamarine;
     display: flex;
-    flex-direction: column-reverse;   /*! Properties : row , row-reverse , column , column-reverse*/
+    flex-direction: row; /*! Properties : row , row-reverse , column , column-reverse*/
+    /* flex-wrap: wrap-reverse;         ! Properties: wrap ,wrap-reverse */
+    justify-content: space-around;  /*!Proprties :center, flex-start ,flex-end , space-around*/
 }
+      
 
 .box
 {

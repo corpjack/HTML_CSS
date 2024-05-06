@@ -14,3 +14,10 @@ property of flex is :
   container. This property is a paricularly useful when working with flexbox or grid layouts.
   flex-direction = row then (main axis = horizantal)
   flex-direction = column then (main axis = vertical)
+  property are : flex-start , flex-end center ,space-between, space-around, space-evenly
+  justify content always work on main axis.
+
+4-flex(Align-items): in flexbox , the allign items property is used to define how flex items are aligned along the cross axis of the flex contaibner
+
+5
+

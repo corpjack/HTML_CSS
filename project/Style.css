@@ -1,0 +1,47 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header
+{
+    background-image: url(assest/food/bg.jpg);
+    background-repeat: no-repeat;
+    height:500px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 50px;
+    margin: 0px 15px;
+    
+}
+.brand
+{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.brand p{
+    font-size: 15px;
+}
+
+.navigation
+{
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px;
+    color: white;
+}
+
+.navigation ul a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 20px;
+    
+}
